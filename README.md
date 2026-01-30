@@ -1,7 +1,7 @@
 # Weather Forecast App
 **TempestTracker** written in python.
 
-![wetter](https://github.com/user-attachments/assets/60e97f52-0ea3-4846-a13a-17c4a2893dbe)
+![wetter](https://github.com/user-attachments/assets/9a22a4f1-1fac-4e07-889a-799cd052010f)
 
 # 🛠 Installation
 🔹 Method 1: Installation via ZIP File (Recommended)
@@ -25,10 +25,6 @@ python3 main.py
 
 ```
 
-
-# Inspiration
-
-This weather app was inspired by https://github.com/DariusLukasukas/nextjs-weather-app. I incorporated some UI ideas into my own small version.
 
 # Author
 - Tannu
