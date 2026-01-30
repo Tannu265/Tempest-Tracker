@@ -19,7 +19,7 @@ You will need to place your openweather api key in the secret.env file.
 ## Usage
 ```bash
 git clone https://github.com/Tannu265
-cd Weather Forecast
+cd Weather Forecast App
 cd src
 python3 main.py
 
