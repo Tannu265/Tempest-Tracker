@@ -75,4 +75,4 @@ python3 main.py
 
 
 # Author
-- Tannu Jha
+Tannu Jha
