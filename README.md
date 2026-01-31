@@ -1,5 +1,5 @@
 # Weather Forecast App
-**Tempest-Tracker** .
+**Tempest-Tracker**
 
 ![wetter](https://github.com/user-attachments/assets/9a22a4f1-1fac-4e07-889a-799cd052010f)
 
