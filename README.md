@@ -18,7 +18,7 @@ You will need to place your openweather api key in the secret.env file.
 
 ## 📌 Project Overview
 
-Minimal Weather App is a Python-based desktop application that provides real-time weather information through a clean, modern, and user-friendly graphical interface. Built using **CustomTkinter**, the application focuses on simplicity while delivering essential weather details in an intuitive layout.
+Weather Forecast App is a Python-based desktop application that provides real-time weather information through a clean, modern, and user-friendly graphical interface. Built using **CustomTkinter**, the application focuses on simplicity while delivering essential weather details in an intuitive layout.
 The app integrates the **OpenWeather API** to fetch live weather data such as temperature, humidity, and current weather conditions. It demonstrates practical implementation of API integration, HTTP requests, and secure handling of sensitive data using environment variables.
 
 This project follows a modular code structure, making it easy to understand, maintain, and extend. It is well-suited for beginners learning Python GUI development, academic submissions, and public portfolio projects.
