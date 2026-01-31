@@ -1,5 +1,5 @@
 # Weather Forecast App
-**TempestTracker** written in python.
+**Tempest-Tracker** .
 
 ![wetter](https://github.com/user-attachments/assets/9a22a4f1-1fac-4e07-889a-799cd052010f)
 
@@ -75,4 +75,4 @@ python3 main.py
 
 
 # Author
-Tannu Jha
+**Tannu Jha**
